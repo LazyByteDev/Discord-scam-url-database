@@ -1,2 +1,4 @@
 # Discord-scam-url-database
-are you tired of hacked accounts promoting weird links or servers? use this auto-mod configuration to block them out!
+Are you tired of hacked accounts spamming your server with shady links or fake server invites? This repository is a community-ran blocklist of known Discord scam URLs! Just put this registry of scam links/servers into your Automod and you should be good!!\n\n
+
+To contribute, just open a PR (Pull Request) with the new scam link in the file
